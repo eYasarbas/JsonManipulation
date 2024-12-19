@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enesy\\source\\repos\\JsonManipulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A569A34-891F-4DCD-82F9-7375B2003025}|JsonManipulation\\JsonManipulation.csproj|c:\\users\\enesy\\source\\repos\\jsonmanipulation\\jsonmanipulation\\controllers\\jsonprocesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A569A34-891F-4DCD-82F9-7375B2003025}|JsonManipulation\\JsonManipulation.csproj|solutionrelative:jsonmanipulation\\controllers\\jsonprocesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A569A34-891F-4DCD-82F9-7375B2003025}|JsonManipulation\\JsonManipulation.csproj|c:\\users\\enesy\\source\\repos\\jsonmanipulation\\jsonmanipulation\\models\\jsonmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A569A34-891F-4DCD-82F9-7375B2003025}|JsonManipulation\\JsonManipulation.csproj|solutionrelative:jsonmanipulation\\models\\jsonmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A569A34-891F-4DCD-82F9-7375B2003025}|JsonManipulation\\JsonManipulation.csproj|c:\\users\\enesy\\source\\repos\\jsonmanipulation\\jsonmanipulation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A569A34-891F-4DCD-82F9-7375B2003025}|JsonManipulation\\JsonManipulation.csproj|solutionrelative:jsonmanipulation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A569A34-891F-4DCD-82F9-7375B2003025}|JsonManipulation\\JsonManipulation.csproj|c:\\users\\enesy\\source\\repos\\jsonmanipulation\\jsonmanipulation\\views\\jsonprocess\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A569A34-891F-4DCD-82F9-7375B2003025}|JsonManipulation\\JsonManipulation.csproj|solutionrelative:jsonmanipulation\\views\\jsonprocess\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\enesy\\source\\repos\\JsonManipulation\\JsonManipulation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "JsonManipulation\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\enesy\\source\\repos\\JsonManipulation\\JsonManipulation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "JsonManipulation\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T08:50:54.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\enesy\\source\\repos\\JsonManipulation\\JsonManipulation\\Views\\JsonProcess\\Index.cshtml",
+              "RelativeDocumentMoniker": "JsonManipulation\\Views\\JsonProcess\\Index.cshtml",
+              "ToolTip": "C:\\Users\\enesy\\source\\repos\\JsonManipulation\\JsonManipulation\\Views\\JsonProcess\\Index.cshtml",
+              "RelativeToolTip": "JsonManipulation\\Views\\JsonProcess\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T08:50:23.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JsonModel.cs",
+              "DocumentMoniker": "C:\\Users\\enesy\\source\\repos\\JsonManipulation\\JsonManipulation\\Models\\JsonModel.cs",
+              "RelativeDocumentMoniker": "JsonManipulation\\Models\\JsonModel.cs",
+              "ToolTip": "C:\\Users\\enesy\\source\\repos\\JsonManipulation\\JsonManipulation\\Models\\JsonModel.cs",
+              "RelativeToolTip": "JsonManipulation\\Models\\JsonModel.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIAzwBsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:46:59.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JsonProcessController.cs",
+              "DocumentMoniker": "C:\\Users\\enesy\\source\\repos\\JsonManipulation\\JsonManipulation\\Controllers\\JsonProcessController.cs",
+              "RelativeDocumentMoniker": "JsonManipulation\\Controllers\\JsonProcessController.cs",
+              "ToolTip": "C:\\Users\\enesy\\source\\repos\\JsonManipulation\\JsonManipulation\\Controllers\\JsonProcessController.cs",
+              "RelativeToolTip": "JsonManipulation\\Controllers\\JsonProcessController.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAQwKwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:37:40.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1491,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

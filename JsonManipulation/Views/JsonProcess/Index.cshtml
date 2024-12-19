@@ -1,0 +1,28 @@
+﻿@model List<ParsedValue>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<div class="container mt-5">
+    <h1>Parsed JSON Data</h1>
+    <table class="table table-bordered">
+        <thead>
+        <tr>
+            <th>Value</th>
+            <th>Type</th>
+            <th>Auto Parse</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Value</td>
+                <td>@item.Type</td>
+                <td>@item.AutoParse</td>
+            </tr>
+        }
+        </tbody>
+    </table>
+</div>
